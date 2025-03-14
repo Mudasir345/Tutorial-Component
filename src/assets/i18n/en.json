@@ -1,0 +1,24 @@
+{
+  "icons": {
+    "forfeit": {
+      "title": "Forfeit",
+      "description": "Click here to forfeit the current game or match"
+    },
+    "settings": {
+      "title": "Settings",
+      "description": "Adjust your game settings and preferences"
+    },
+    "profile": {
+      "title": "Profile",
+      "description": "View and edit your profile information"
+    },
+    "help": {
+      "title": "Help",
+      "description": "Get assistance and view game instructions"
+    },
+    "leaderboard": {
+      "title": "Leaderboard",
+      "description": "View top players and rankings"
+    }
+  }
+}

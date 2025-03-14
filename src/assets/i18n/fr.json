@@ -1,0 +1,24 @@
+{
+  "icons": {
+    "forfeit": {
+      "title": "Abandonner",
+      "description": "Cliquez ici pour abandonner la partie ou le match en cours"
+    },
+    "settings": {
+      "title": "Paramètres",
+      "description": "Ajustez vos paramètres et préférences de jeu"
+    },
+    "profile": {
+      "title": "Profil",
+      "description": "Consultez et modifiez vos informations de profil"
+    },
+    "help": {
+      "title": "Aide",
+      "description": "Obtenez de l'aide et consultez les instructions du jeu"
+    },
+    "leaderboard": {
+      "title": "Classement",
+      "description": "Consultez le classement des meilleurs joueurs"
+    }
+  }
+}

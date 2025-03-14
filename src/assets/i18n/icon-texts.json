@@ -1,0 +1,67 @@
+{
+  "forfeit": {
+    "en": "Forfeit the current game and return to the main menu. Your progress will be lost and you will need to start over from the beginning. This action cannot be undone, so please make sure you want to exit before proceeding.",
+    "es": "Abandona el juego actual y regresa al menú principal. Tu progreso se perderá y tendrás que comenzar de nuevo desde el principio. Esta acción no se puede deshacer, así que asegúrate de querer salir antes de continuar.",
+    "fr": "Abandonner la partie en cours et revenir au menu principal. Votre progression sera perdue et vous devrez recommencer depuis le début. Cette action ne peut pas être annulée, alors assurez-vous de vouloir quitter avant de continuer."
+  },
+  "help": {
+    "en": "Get comprehensive help and detailed instructions for navigating this tutorial. Learn about all available features, keyboard shortcuts, and best practices for using the application effectively. Our help section includes step-by-step guides and troubleshooting tips.",
+    "es": "Obtén ayuda completa e instrucciones detalladas para navegar por este tutorial. Aprende sobre todas las funciones disponibles, atajos de teclado y mejores prácticas para usar la aplicación de manera efectiva. Nuestra sección de ayuda incluye guías paso a paso y consejos para solucionar problemas.",
+    "fr": "Obtenez une aide complète et des instructions détaillées pour naviguer dans ce tutoriel. Découvrez toutes les fonctionnalités disponibles, les raccourcis clavier et les meilleures pratiques pour utiliser l'application efficacement. Notre section d'aide comprend des guides étape par étape et des conseils de dépannage."
+  },
+  "settings": {
+    "en": "Adjust game settings including difficulty level, audio volume, graphics quality, and control preferences. Customize your experience to match your play style and system capabilities. Changes will be applied immediately and can be reset to defaults at any time.",
+    "es": "Ajusta la configuración del juego, incluyendo el nivel de dificultad, el volumen del audio, la calidad de los gráficos y las preferencias de control. Personaliza tu experiencia para que coincida con tu estilo de juego y las capacidades de tu sistema. Los cambios se aplicarán inmediatamente y se pueden restablecer a los valores predeterminados en cualquier momento.",
+    "fr": "Ajustez les paramètres du jeu, y compris le niveau de difficulté, le volume audio, la qualité graphique et les préférences de contrôle. Personnalisez votre expérience pour qu'elle corresponde à votre style de jeu et aux capacités de votre système. Les modifications seront appliquées immédiatement et peuvent être réinitialisées aux valeurs par défaut à tout moment."
+  },
+  "close": {
+    "en": "Close the application and return to your desktop. All your data and current progress will be deleted after the application is closed and will not be shared with anyone else for any reason. Make sure to save any important information before exiting. This action cannot be undone.",
+    "es": "Cierra la aplicación y regresa a tu escritorio. Todos tus datos y progreso actual se eliminarán después de que se cierre la aplicación y no se compartirán con nadie más por ningún motivo. Asegúrate de guardar cualquier información importante antes de salir. Esta acción no se puede deshacer.",
+    "fr": "Fermez l'application et revenez à votre bureau. Toutes vos données et votre progression actuelle seront supprimées après la fermeture de l'application et ne seront partagées avec personne d'autre pour quelque raison que ce soit. Assurez-vous de sauvegarder toutes les informations importantes avant de quitter. Cette action ne peut pas être annulée."
+  },
+  "begin": {
+    "en": "Start your journey and launch the interactive demo experience. This will guide you through all the key features of the application with hands-on examples. You can pause or exit the tutorial at any time, and your progress will be saved for your next session.",
+    "es": "Comienza tu viaje y lanza la experiencia de demostración interactiva. Esto te guiará a través de todas las características clave de la aplicación con ejemplos prácticos. Puedes pausar o salir del tutorial en cualquier momento, y tu progreso se guardará para tu próxima sesión.",
+    "fr": "Commencez votre voyage et lancez l'expérience de démonstration interactive. Cela vous guidera à travers toutes les fonctionnalités clés de l'application avec des exemples pratiques. Vous pouvez mettre en pause ou quitter le tutoriel à tout moment, et votre progression sera sauvegardée pour votre prochaine session."
+  },
+  "face": {
+    "en": "View and customize your profile settings including your avatar, display name, and personal preferences. Update your privacy settings and manage how your information is displayed to others. You can also link your social media accounts and set up two-factor authentication for enhanced security.",
+    "es": "Ve y personaliza la configuración de tu perfil, incluyendo tu avatar, nombre para mostrar y preferencias personales. Actualiza tu configuración de privacidad y administra cómo se muestra tu información a los demás. También puedes vincular tus cuentas de redes sociales y configurar la autenticación de dos factores para mayor seguridad.",
+    "fr": "Affichez et personnalisez les paramètres de votre profil, y compris votre avatar, votre nom d'affichage et vos préférences personnelles. Mettez à jour vos paramètres de confidentialité et gérez la façon dont vos informations sont affichées aux autres. Vous pouvez également lier vos comptes de médias sociaux et configurer l'authentification à deux facteurs pour une sécurité renforcée."
+  },
+  "location": {
+    "en": "Set your location to access region-specific content and features. This helps us provide you with relevant information based on your geographical area, including local events, weather updates, and regional promotions. Your location data is only used within the application and is never shared with third parties.",
+    "es": "Establece tu ubicación para acceder a contenido y funciones específicas de la región. Esto nos ayuda a proporcionarte información relevante basada en tu área geográfica, incluyendo eventos locales, actualizaciones del clima y promociones regionales. Tus datos de ubicación solo se utilizan dentro de la aplicación y nunca se comparten con terceros.",
+    "fr": "Définissez votre emplacement pour accéder au contenu et aux fonctionnalités spécifiques à la région. Cela nous aide à vous fournir des informations pertinentes basées sur votre zone géographique, y compris les événements locaux, les mises à jour météorologiques et les promotions régionales. Vos données de localisation ne sont utilisées qu'au sein de l'application et ne sont jamais partagées avec des tiers."
+  },
+  "chat": {
+    "en": "Open the chat window to connect with other users in real-time. Share messages, images, and files with individuals or groups. Our chat feature includes emoji support, read receipts, and typing indicators. All communications are encrypted end-to-end for your privacy and security.",
+    "es": "Abre la ventana de chat para conectarte con otros usuarios en tiempo real. Comparte mensajes, imágenes y archivos con individuos o grupos. Nuestra función de chat incluye soporte para emojis, confirmaciones de lectura e indicadores de escritura. Todas las comunicaciones están cifradas de extremo a extremo para tu privacidad y seguridad.",
+    "fr": "Ouvrez la fenêtre de chat pour vous connecter avec d'autres utilisateurs en temps réel. Partagez des messages, des images et des fichiers avec des individus ou des groupes. Notre fonction de chat comprend la prise en charge des émojis, les accusés de réception et les indicateurs de frappe. Toutes les communications sont cryptées de bout en bout pour votre confidentialité et votre sécurité."
+  },
+  "video": {
+    "en": "Access video features and stream live content to your audience. Record high-quality videos with customizable settings for resolution, frame rate, and audio quality. Apply filters and effects in real-time, and share your creations directly to social media platforms or save them to your device for later editing.",
+    "es": "Accede a funciones de video y transmite contenido en vivo a tu audiencia. Graba videos de alta calidad con configuraciones personalizables para resolución, velocidad de fotogramas y calidad de audio. Aplica filtros y efectos en tiempo real, y comparte tus creaciones directamente en plataformas de redes sociales o guárdalas en tu dispositivo para editarlas más tarde.",
+    "fr": "Accédez aux fonctionnalités vidéo et diffusez du contenu en direct à votre public. Enregistrez des vidéos de haute qualité avec des paramètres personnalisables pour la résolution, la fréquence d'images et la qualité audio. Appliquez des filtres et des effets en temps réel, et partagez vos créations directement sur les plateformes de médias sociaux ou enregistrez-les sur votre appareil pour les modifier ultérieurement."
+  },
+  "more": {
+    "en": "Access more options and advanced features that enhance your experience. This includes customizable themes, keyboard shortcuts, accessibility settings, and integration with third-party applications. Explore additional tools and utilities that can help you get the most out of our platform.",
+    "es": "Accede a más opciones y funciones avanzadas que mejoran tu experiencia. Esto incluye temas personalizables, atajos de teclado, configuraciones de accesibilidad e integración con aplicaciones de terceros. Explora herramientas y utilidades adicionales que pueden ayudarte a aprovechar al máximo nuestra plataforma.",
+    "fr": "Accédez à plus d'options et de fonctionnalités avancées qui améliorent votre expérience. Cela comprend des thèmes personnalisables, des raccourcis clavier, des paramètres d'accessibilité et l'intégration avec des applications tierces. Explorez des outils et des utilitaires supplémentaires qui peuvent vous aider à tirer le meilleur parti de notre plateforme."
+  },
+  "prep": {
+    "en": "Prepare for your session with customized settings and preferences. Set up your environment for optimal performance and comfort. This includes adjusting your workspace, configuring your equipment, and reviewing important information before you begin. Taking time to prepare will enhance your overall experience.",
+    "es": "Prepárate para tu sesión con configuraciones y preferencias personalizadas. Configura tu entorno para un rendimiento y comodidad óptimos. Esto incluye ajustar tu espacio de trabajo, configurar tu equipo y revisar información importante antes de comenzar. Tomarse el tiempo para prepararse mejorará tu experiencia general.",
+    "fr": "Préparez votre session avec des paramètres et des préférences personnalisés. Configurez votre environnement pour des performances et un confort optimaux. Cela comprend l'ajustement de votre espace de travail, la configuration de votre équipement et la révision des informations importantes avant de commencer. Prendre le temps de se préparer améliorera votre expérience globale."
+  },
+  "outfit": {
+    "en": "Customize your avatar's appearance and outfit with a wide range of clothing options, accessories, and style choices. Express your personality through your virtual representation. Our extensive collection includes casual, formal, and themed outfits that can be mixed and matched to create your unique look.",
+    "es": "Personaliza la apariencia y el atuendo de tu avatar con una amplia gama de opciones de ropa, accesorios y elecciones de estilo. Expresa tu personalidad a través de tu representación virtual. Nuestra extensa colección incluye atuendos casuales, formales y temáticos que se pueden combinar para crear tu look único.",
+    "fr": "Personnalisez l'apparence et la tenue de votre avatar avec une large gamme d'options de vêtements, d'accessoires et de choix de style. Exprimez votre personnalité à travers votre représentation virtuelle. Notre vaste collection comprend des tenues décontractées, formelles et thématiques qui peuvent être mélangées et assorties pour créer votre look unique."
+  },
+  "selfie & video": {
+    "en": "Take selfies or record videos to share with others in your network. Capture special moments with high-quality camera features including portrait mode, night mode, and various filters. Create short video clips with special effects and share them instantly or save them to your personal gallery for later viewing.",
+    "es": "Toma selfies o graba videos para compartir con otros en tu red. Captura momentos especiales con funciones de cámara de alta calidad, incluyendo modo retrato, modo nocturno y varios filtros. Crea clips de video cortos con efectos especiales y compártelos instantáneamente o guárdalos en tu galería personal para verlos más tarde.",
+    "fr": "Prenez des selfies ou enregistrez des vidéos à partager avec d'autres personnes de votre réseau. Capturez des moments spéciaux avec des fonctionnalités de caméra de haute qualité, y compris le mode portrait, le mode nuit et divers filtres. Créez de courts clips vidéo avec des effets spéciaux et partagez-les instantanément ou enregistrez-les dans votre galerie personnelle pour les visionner ultérieurement."
+  }
+}

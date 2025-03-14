@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to the App",
+    "description": "Learn how to navigate the interface.",
+    "icon": "assets/icons/begin.svg"
+  },
+  {
+    "id": 2,
+    "title": "Profile Setup",
+    "description": "Customize your profile for better experience.",
+    "icon": "assets/icons/face.svg"
+  },
+  {
+    "id": 3,
+    "title": "Location Services",
+    "description": "Set your location for local features.",
+    "icon": "assets/icons/location.svg"
+  },
+  {
+    "id": 4,
+    "title": "Chat Features",
+    "description": "Connect with others using our chat feature.",
+    "icon": "assets/icons/chat.svg"
+  },
+  {
+    "id": 5,
+    "title": "Video Sharing",
+    "description": "Share and view videos with friends.",
+    "icon": "assets/icons/video.svg"
+  },
+  {
+    "id": 6,
+    "title": "Get Help",
+    "description": "Learn how to get help when needed.",
+    "icon": "assets/icons/help.svg"
+  },
+  {
+    "id": 7,
+    "title": "Advanced Options",
+    "description": "Explore more features in the advanced menu.",
+    "icon": "assets/icons/more.svg"
+  }
+] 
